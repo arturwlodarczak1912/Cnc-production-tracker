@@ -20,7 +20,7 @@ dependencies, no internet connection, no cloud account) because that is
 the reality of many production PCs on the shop floor — locked down,
 offline, and running whatever Python ships with Windows.
 
-## 🎯 Features
+## 🛠️ Features
 
 - Log a production batch: operator, part number, cycle time (seconds),
   quantity produced
