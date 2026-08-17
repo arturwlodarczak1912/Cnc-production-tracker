@@ -40,7 +40,7 @@ offline, and running whatever Python ships with Windows.
   `datetime`, `pathlib`
 - No external dependencies — runs anywhere Python 3 is installed
 
-## How to run
+## ⚙️ How to run
 
 ```bash
 python3 cnc_production_tracker.py
