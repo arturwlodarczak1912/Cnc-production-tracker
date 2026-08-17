@@ -34,7 +34,7 @@ offline, and running whatever Python ships with Windows.
 - All data persisted locally in a SQLite database (`production_log.db`),
   so history is kept between sessions
 
-## Tech stack
+## 🧰 Tech stack
 
 - Python 3 standard library only: `tkinter`, `ttk`, `sqlite3`, `csv`,
   `datetime`, `pathlib`
