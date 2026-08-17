@@ -4,7 +4,7 @@ A lightweight desktop application for logging CNC machine production runs
 on the shop floor and reviewing basic output statistics in real time —
 built with Python's standard library only (`tkinter` + `sqlite3`).
 
-## Why this project
+## 🎯 Why this project
 
 After 12 years operating CNC machines (Heidenhain-controlled Hedelius mills)
 in agricultural machinery manufacturing, I know first-hand that production
